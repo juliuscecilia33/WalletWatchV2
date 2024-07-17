@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wswXmjRXMMc=",
+  "dgSpecHash": "Z8s7BnYvstA=",
   "success": true,
   "projectFilePath": "/Users/juliuscecilia/Desktop/projects2024/WalletWatchV2/WalletWatchAPI/WalletWatchAPI.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,10 @@
     "/Users/juliuscecilia/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/juliuscecilia/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/juliuscecilia/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/juliuscecilia/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/juliuscecilia/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/juliuscecilia/.nuget/packages/system.net.http.json/8.0.0/system.net.http.json.8.0.0.nupkg.sha512",
+    "/Users/juliuscecilia/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/juliuscecilia/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
